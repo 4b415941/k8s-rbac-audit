@@ -15,7 +15,7 @@ This script analyzes Kubernetes roles and role bindings to identify potential se
 
    ```sh
    git clone https://github.com/4b415941/k8s-rbac-audit.git
-   cd repo-name
+   cd k8s-rbac-audit
    ```
 
 2. Install required dependencies:
